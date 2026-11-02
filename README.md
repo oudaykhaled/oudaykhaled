@@ -1,4 +1,4 @@
-<img src="assets/profile-banner.svg" width="100%" alt="Ouday Khaled — Software consultant. AI, Android, Flutter, KMP, backend and engineering leadership." />
+<img src="assets/profile-banner.svg?v=2" width="100%" alt="Ouday Khaled — Software consultant. AI, Android, Flutter, KMP, backend and engineering leadership." />
 
 <p align="center">
   <a href="https://ouday-khaled.netlify.app/">Portfolio</a> &nbsp;·&nbsp;
