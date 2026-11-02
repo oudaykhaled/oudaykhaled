@@ -1,4 +1,4 @@
-<img src="assets/profile-banner.svg" width="100%" alt="Ouday Khaled — Software consultant. Mobile, backend, architecture and engineering leadership." />
+<img src="assets/profile-banner.svg" width="100%" alt="Ouday Khaled — Software consultant. AI, Android, Flutter, KMP, backend and engineering leadership." />
 
 <p align="center">
   <a href="https://ouday-khaled.netlify.app/">Portfolio</a> &nbsp;·&nbsp;
@@ -11,11 +11,12 @@
 
 I'm a software consultant based in the Netherlands, with engineering experience since 2013 across digital banking, payments and enterprise software. I connect architecture with hands-on implementation: reusable components, clear system boundaries, reliable delivery and teams that can maintain what they build.
 
-Currently **Senior Android Engineer at BUUT (ABN AMRO)**. Previously **Mobile Principal Engineer and Chapter Lead at Backbase**, working on modular banking components, mentoring engineers and collaborating across product and QA.
+Currently **Senior Android Engineer at BUUT (ABN AMRO)**, contributing to a **Kotlin Multiplatform (KMP)** migration. Previously **Mobile Principal Engineer and Chapter Lead at Backbase**, working on modular banking components, mentoring engineers and collaborating across product and QA.
 
 ### What I bring
 
 - **Mobile engineering:** Kotlin, Java, Jetpack Compose, coroutines and Flow; modular architecture, offline workflows and lifecycle recovery.
+- **Cross-platform and AI:** KMP migration contributions, Flutter/Dart portfolio projects and AI-assisted development supported by code review and executable verification.
 - **Backend and integration experience:** C#/.NET, SQL, APIs and enterprise systems, complemented by public work in messaging and distributed systems.
 - **Technical leadership:** architecture reviews, chapter leadership, mentoring, hiring and collaboration from design through release.
 - **Engineering quality:** unit and UI testing, CI/CD, code review and documentation that makes decisions easy to inspect.

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
   <title id="title">Ouday Khaled — Software consultant</title>
-  <desc id="desc">Mobile, backend, architecture and engineering leadership. Based in the Netherlands.</desc>
+  <desc id="desc">AI, Android, Flutter, Kotlin Multiplatform, backend and engineering leadership. Based in the Netherlands.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#101e32"/>
@@ -12,7 +12,7 @@
   <rect x="45" y="39" width="34" height="4" rx="2" fill="#6ee7c6"/>
   <text x="45" y="99" fill="#f4f7fb" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="-1">Ouday Khaled</text>
   <text x="47" y="139" fill="#6ee7c6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="23" font-weight="500">Software consultant</text>
-  <text x="47" y="178" fill="#c1cfdf" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="17">Mobile · Backend · Architecture · Engineering leadership</text>
+  <text x="47" y="178" fill="#c1cfdf" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="17">AI · Android · Flutter · KMP · Backend · Leadership</text>
   <text x="47" y="232" fill="#aabed3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="13" letter-spacing="1.4">BASED IN THE NETHERLANDS</text>
   <g fill="none" stroke="#6ee7c6" stroke-width="2" stroke-opacity=".6">
     <rect x="800" y="63" width="57" height="57" rx="12"/>
